@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1776723688 source:c:\users\gonca\desktop\programação\c\ficha 7 - loginsimulacao\ficha7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<locale.h>
+	<windows.h>
+	<ctype.h>
+
